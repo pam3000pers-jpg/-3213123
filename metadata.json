@@ -1,0 +1,6 @@
+{
+  "name": "Google Search",
+  "description": "A smart Google Search client powered by Gemini and Room, featuring real-time web results, AI overviews, search suggestions, and local history persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
